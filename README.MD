@@ -1,39 +1,11 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp que realizei na [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -51,49 +23,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Notion Template] (https://www.notion.so/Bia-PAS-Podcast-AI-Studio-18c21a9ba3528017bf93eadbccfcf9db)
+- [Editor de aúdio](https://www.capcut.com/editor/F4C7DB80-23F7-48CF-A231-DF50F98C6ADB?enter_from=page_header&current_page=landing_page&from_page=landing_page&scenario=custom&workspaceId=7465908060478029830&spaceId=7465906888765522949)
 
 
-## 🛠️ Instruções de execução
+## 🛠️ Prompts
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+- `chagpt` Você é um roteirista de podcast, e vamos criar um podcast de finanças pessoais, focado em FGTS e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de FGTS feito por especialistas em finanças pessoais. O podcast vai falar sobre dicas de como o FGTS pode ser enxergado como importante fonte de reserva de emergência. {REGRAS} - O nome deve ser enxuto, um nome e um subtítulo - O nome deve fazer conexão com a reserva de emergência, tão falada em finanças pessoais - O nome deve conter alguma palavra forte que remeta a poupar valores para ter um futuro seguro {REGRAS NEGATIVAS} - Não quero que o título contenha palavras em inglês - Não quero que utilize nenhuma das palavras nessa lista: emergência, poupança 
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de finanças pessoais, focado em FGTS cujo o nome é "Caixa de Futuro – O FGTS como um alicerce financeiro" e tem foco em como o FGTS pode ser encarado com uma reserva de emergência, com o público alvo de pessoas da geração Z. o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO] {REGRAS} •	no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan •	no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre educação financeira no Brasil •	no bloco [CURIOSIDADE 2] substitua por uma curiosidade sobre a criação do FGTS •	no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Bia e esse foi o FGTSCast dessa semana' •	use termos de fácil explicação •	O podcast vai ser apresentado somente por uma pessoa, chamada Bia •	O podcast deve ser curto {REGRAS NEGATIVAS} •	Não use muitos termos técnicos •	Não ultrapasse 5 minutos de duração
 
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+-  `midjourney` created a factory woman worker character as podcaster with microphone, retro style, isometric, cube, game style, low resolution, down angle, game boy colors, 8 bits, retro sprites
